@@ -21,7 +21,7 @@ body {
     height: 100%;
     width: 100%;
     overflow: hidden;
-    /* position: relative; */
+    position: relative;
     background: rgb(130, 109, 180);
     background: linear-gradient(132deg, rgba(130, 109, 180, 1) 0%, rgba(73, 83, 135, 1) 54%);
 
